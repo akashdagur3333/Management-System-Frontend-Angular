@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "DashboardKnocial": {
+    "DashboardManexia": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/dashboard-knocial",
+            "outputPath": "dist/dashboard-Manexia",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -65,10 +65,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "DashboardKnocial:build:production"
+              "browserTarget": "DashboardManexia:build:production"
             },
             "development": {
-              "browserTarget": "DashboardKnocial:build:development"
+              "browserTarget": "DashboardManexia:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -76,7 +76,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "DashboardKnocial:build"
+            "browserTarget": "DashboardManexia:build"
           }
         },
         "test": {

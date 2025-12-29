@@ -1,7 +1,7 @@
 {
-  "name": "dashboard-knocial",
+  "name": "dashboard-Manexia",
   "version": "0.0.0",
-  "proxy": "https://knocialindiagreatong.onrender.com/",
+  "proxy": "https://Manexiaindiagreatong.onrender.com/",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",

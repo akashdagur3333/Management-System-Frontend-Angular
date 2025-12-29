@@ -7,7 +7,7 @@ import { environment } from '../enviroment';
   providedIn: 'root'
 })
 export class AuthService {
-  //https://knocialindiagreatong.onrender.com/
+  //https://Manexiaindiagreatong.onrender.com/
  // http://3.7.133.163:3000/
   address=environment.url;
 token:any;

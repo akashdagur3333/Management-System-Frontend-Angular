@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent{
-  title = 'DashboardKnocial';
+  title = 'DashboardManexia';
 
 //   ngOnInit(): void {
 //  var token=localStorage.getItem('token');

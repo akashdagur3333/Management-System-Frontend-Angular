@@ -1,5 +1,5 @@
 export const environment = {
-  url:'http://localhost:3000/',
+  url:'https://erp-service.manexias.com/',
   AdminRole:['admin'],
   UserRole:['user'],
   Technical:['technical'],
@@ -7,7 +7,6 @@ export const environment = {
   common:['user','technical','hr'],
   NormalAdmin:['nadmin'],
   BothAdmin:['admin','nadmin']
-  //https://kcms1.onrender.com/
   //http://localhost:3000/
   };
 

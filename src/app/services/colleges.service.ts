@@ -25,6 +25,6 @@ export class CollegesService {
   
 
   public updateStatus(id:any,data:any){
-    return this.http.put<any>('https://knocialindiagreatong.onrender.com/collegesStatus/'+id,data)
+    return this.http.put<any>('https://Manexiaindiagreatong.onrender.com/collegesStatus/'+id,data)
   }
 }
